@@ -19,7 +19,6 @@ int first_occurrence(int arr[], int n, int x) {
   
   return result;
 }
-
 int main() {
   int n, x, result;
   
