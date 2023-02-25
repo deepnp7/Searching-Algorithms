@@ -1,3 +1,5 @@
+
+
 #include <stdio.h>
 
 int first_occurrence(int arr[], int n, int x) {
