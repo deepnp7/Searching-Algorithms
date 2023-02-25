@@ -1,3 +1,5 @@
+// Recursive approach
+
 #include <stdio.h>
 
 int binary_search(int arr[], int l, int r, int x) {
