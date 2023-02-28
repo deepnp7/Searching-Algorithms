@@ -17,8 +17,7 @@ int first_occurrence(int arr[], int n, int x) {
       l = mid + 1;
     else
       r = mid - 1;
-  }
-  
+  }  
   return result;
 }
 int main() {
