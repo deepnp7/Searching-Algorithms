@@ -1,4 +1,4 @@
-// Binary Search to find/search Repetitive Occurrence
+// Binary Search to find/search Repetitive Occurrences
 
 #include <stdio.h>
 
