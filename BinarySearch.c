@@ -28,7 +28,8 @@ int main()
   int arr[n];
   
   printf("Enter %d integers in ascending order: \n", n);
-  for (int i = 0; i < n; i++) {
+  for (int i = 0; i < n; i++) 
+{
     scanf("%d", &arr[i]);
   }
   
