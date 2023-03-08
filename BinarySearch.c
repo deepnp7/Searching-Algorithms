@@ -24,7 +24,6 @@ int main()
   
   printf("Enter the number of elements in the array: ");
   scanf("%d", &n);
-  
   int arr[n];
   
   printf("Enter %d integers in ascending order: \n", n);
