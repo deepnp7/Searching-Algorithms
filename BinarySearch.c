@@ -18,7 +18,8 @@ int binary_search(int arr[], int l, int r, int x) {
   return -1;
 }
 
-int main() {
+int main() 
+{
   int n, x, result;
   
   printf("Enter the number of elements in the array: ");
