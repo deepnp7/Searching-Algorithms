@@ -1,4 +1,4 @@
-// Recursive approach
+ // Recursive approach
 
 #include <stdio.h>
 
