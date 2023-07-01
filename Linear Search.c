@@ -8,7 +8,7 @@ int linear_search(int arr[], int n, int x)
     if (arr[i] == x)
     return i;
   }
-  return -1;
+   return -1;
 }
 int main() 
 {
